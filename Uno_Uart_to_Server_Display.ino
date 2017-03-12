@@ -35,7 +35,7 @@ uchar show2[] = {
 #define SENSORID       "80rtRbOkaCcDKNrO3U"   //light sensor id 5厂 4号池*/
 
 #define APIKEY         "eXwNg7a3aUIlRaM4" // replace your pachube 
-#define SENSORID       "s1P3WVOfAymIYmODXG"   //light sensor id test 2号池
+#define SENSORID       "80rtRbOkaCcDKNrO3U"   //light sensor id test NO.4 Pool
 
 // assign a MAC address for the ethernet controller.
 // Newer Ethernet shields have a MAC address printed on a sticker on the shield
@@ -46,7 +46,7 @@ byte mac[] = {
 
 // fill in an available IP address on your network here,
 // for manual configuration:
-byte ip[] = {192, 168, 1, 96};
+byte ip[] = {192, 168, 0, 96};
 //byte ip[] = {192,168,0,11};
 byte gateway[] = {192, 168, 168, 1};
 byte subnet[] = {255, 255, 255, 0};
