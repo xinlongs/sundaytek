@@ -24,10 +24,6 @@ uchar show0[] = {
   0xCA,0xA5,0xB6,0xB9,0xB5,0xE7,0xD7,0xD3,0xBC,0xE0,0xB2,0xE2,0xCA,0xFD,0xD6,0xB5
 };        //圣豆电子监测数值
 
-/*uchar show2[] = {
-  0xA1,0xA1,0xA1,0xA1,0xA1,0xA1,0xA1,0xA1,0xA1,0xA1,0xA1,0xA1,0xA1,0xA1,0xA1,0xA1
-};    */            //空格
-
 uchar show1[] = {
   0xBC,0xE0,0xB2,0xE2,0xC4,0xE0,0xCE,0xBB            //监测泥位
 };
@@ -39,7 +35,7 @@ uchar show2[] = {
 #define SENSORID       "80rtRbOkaCcDKNrO3U"   //light sensor id 5厂 4号池*/
 
 #define APIKEY         "eXwNg7a3aUIlRaM4" // replace your pachube 
-#define SENSORID       "s1P3WVOfAymIYmODXG"   //light sensor id test 1号池
+#define SENSORID       "s1P3WVOfAymIYmODXG"   //light sensor id test 2号池
 
 // assign a MAC address for the ethernet controller.
 // Newer Ethernet shields have a MAC address printed on a sticker on the shield
