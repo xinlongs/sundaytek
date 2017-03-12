@@ -35,7 +35,7 @@ uchar show2[] = {
 #define SENSORID       "80rtRbOkaCcDKNrO3U"   //light sensor id 5厂 4号池*/
 
 #define APIKEY         "eXwNg7a3aUIlRaM4" // replace your pachube 
-#define SENSORID       "80rtRbOkaCcDKNrO3U"   //light sensor id test NO.4 Pool
+#define SENSORID       "dRFRjTI4YnEa3iWzci"   //light sensor id test NO.6 Pool
 
 // assign a MAC address for the ethernet controller.
 // Newer Ethernet shields have a MAC address printed on a sticker on the shield
